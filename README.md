@@ -105,3 +105,19 @@ If preventable readmissions were eliminated, estimated resource savings include 
 - **Dataset** — Based on the UCI / Kaggle Diabetes 130-US Hospitals dataset
 
 ---
+
+## Author
+
+**[Mohd Faiz]**
+
+- **Role:** Business and Data Analyst
+- **GitHub:** [https://github.com/faizikbal01-lab](https://github.com/your-github-handle)
+
+
+
+
+
+
+
+
+
